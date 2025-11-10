@@ -42,6 +42,11 @@ We agree to cooperate responsibly, complete assigned tasks on time, respect each
 
 ---
 
+## 🎥 2-days UTMD Vlog 
+
+
+---
+
 ## 🏫 Summary of the Visit
 Visiting **UTMDigital** during the UTMDigital Open Day was eye-opening. We learned how UTMDigital supports UTM’s digital operations including campus network management, data centre services, cybersecurity measures and software support.  
 
