@@ -16,4 +16,4 @@ This course introduces the basic principles of digital systems and logic design.
 <br>
 
 ## 🧠 Reflection
-Through hands-on exercises, I learned how small logical operations combine to form complex systems. This subject built my foundation for understanding how computer hardware works. The lab sessions and project helped me understand logic functions more effectively.
+In Digital Logic, I learned the fundamental concepts that make up computer hardware systems. I discovered how computers use binary numbers and logic gates to process information. Through exercises on Boolean algebra and circuit design, I understood how simple logical functions can create complex digital circuits. This course helped me appreciate the importance of logic design in building reliable and efficient computer systems. I also developed stronger analytical and problem-solving skills while designing and testing logic circuits. Through hands-on exercises, I learned how small logical operations combine to form complex systems. This subject built my foundation for understanding how computer hardware works. The lab sessions and project helped me understand logic functions more effectively.
