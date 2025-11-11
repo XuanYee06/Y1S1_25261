@@ -39,17 +39,28 @@ We agree to cooperate responsibly, complete assigned tasks on time, respect each
 
 ![fd73cf56-e6d8-449a-9549-7e0b0f8e7c93](https://github.com/user-attachments/assets/fe86a11c-f6dd-4139-a0d5-ea102330d202)
 *Group photo of interviewing UTMD staff*
+<br>
 
 ---
 
 ## 🎥 2-days UTMD Vlog 
-
+Click [here](https://drive.google.com/file/d/1JHCzoaKuKiQYfML6lSK6hA-D8CPX7jRB/view?usp=sharing) to view our vlog!
+<br>
 
 ---
 
 ## 🏫 Summary of the Visit
 Visiting **UTMDigital** during the UTMDigital Open Day was eye-opening. We learned how UTMDigital supports UTM’s digital operations including campus network management, data centre services, cybersecurity measures and software support.  
+<br>
 
+---
+
+## 🧠 Reflection & My Contribution
+I was responsible for organizing and managing the vlog materials.  
+After filming, I categorized all photos and clips into a structured Google Drive folder and documented detailed information related to our project.  
+This helped our team keep everything organized and accessible during the editing process.  
+📁 **View the full folder here:**  [Vlog Materials](https://drive.google.com/drive/folders/1mizJZGXwCg8mlPzyVhFo3I5WFN-D1OfW?usp=drive_link)
+<br>
 
 ---
 
