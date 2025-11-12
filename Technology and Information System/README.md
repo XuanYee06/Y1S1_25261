@@ -7,10 +7,10 @@ This course introduces the basic concepts of information systems and technology 
 ![it](https://github.com/user-attachments/assets/2c158e3c-8f01-4dc5-8dfd-9034d1a4917b)
 
 ## 📖 Topic Covered
-1.0 Chapter 1: Emerging Technology in Information Communication Technology (ICT)  
-2.0 Chapter 2: Hardware  
-3.0 Chapter 3: Software  
-
+1.0 *Chapter 1* - Emerging Technology in Information Communication Technology (ICT)  
+2.0 *Chapter 2* - Hardware  
+3.0 *Chapter 3* - Software  
+4.0 *Chapter 4* - 
 
 ## 📁 Folders
 - [UTM Digital Open Day](UTMDigital-open-day.md) — my first university event experience.
