@@ -10,7 +10,7 @@ This course introduces the basic concepts of information systems and technology 
 1.0 *Chapter 1* - Emerging Technology in Information Communication Technology (ICT)  
 2.0 *Chapter 2* - Hardware  
 3.0 *Chapter 3* - Software  
-4.0 *Chapter 4* - 
+4.0 *Chapter 4* - Information System & System Analysis and Design
 
 ## 📁 Folders
 - [UTM Digital Open Day](UTMDigital-open-day.md) — my first university event experience.
