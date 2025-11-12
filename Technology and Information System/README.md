@@ -11,6 +11,10 @@ This course introduces the basic concepts of information systems and technology 
 2.0 *Chapter 2* - Hardware  
 3.0 *Chapter 3* - Software  
 4.0 *Chapter 4* - Information System & System Analysis and Design
+5.0 *Chapter 5* - Databases and Data Analytics
+6.0 *Chapter 6* - Networks and Communications
+7.0 *Chapter 7* - Privacy, Security, and Ethnics
+8.0 *Chapter 8* - Cloud Computing
 
 ## 📁 Folders
 - [UTM Digital Open Day](UTMDigital-open-day.md) — my first university event experience.
