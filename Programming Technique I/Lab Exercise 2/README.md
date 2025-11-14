@@ -1,4 +1,4 @@
-# Lab Exercise 2 (Section 03)
+# Lab Exercise 2
 This repository contains my personal record of Lab Exercise 2 (Section 03) for my coursework. The task for this lab exercise was to convert a given flowchart into a complete C++ program.  
 
 📆Date: 14 November 2025  
