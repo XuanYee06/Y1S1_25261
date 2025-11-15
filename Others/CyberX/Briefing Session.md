@@ -8,7 +8,7 @@
 
 ## ✨ Overview
 
-Today, I attended the **CyberX briefing session** where we were introduced to the fundamentals of cybersecurity and Capture The Flag (CTF) competitions. The session helped me understand how cybersecurity challenges work, especially in offensive security and problem-solving environments.
+Today, I attended the CyberX briefing session where we were introduced to the fundamentals of cybersecurity and Capture The Flag (CTF) competitions. The session helped me understand how cybersecurity challenges work, especially in offensive security and problem-solving environments.
 
 ---
 
