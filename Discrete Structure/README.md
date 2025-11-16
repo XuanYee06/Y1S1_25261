@@ -9,10 +9,9 @@ This course focuses on mathematical concepts used in computer science. It has pr
 
 
 ## 📘 Topics Covered
-- Set theory and functions  
-- Logic and proof techniques  
-- Relations and graphs  
-- Combinatorics and counting
+*Chapter 1:* Set Theory & Logic  
+*Chapter 2:* Relations and Functions  
+*Chapter 3:* Counting Methods & Probability  
 <br>
 
 ## 🧠 Reflection
