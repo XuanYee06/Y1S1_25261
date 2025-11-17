@@ -26,13 +26,13 @@ We used several IC logic gates such as:
 | Item | Description |
 |------|------------|
 | Breadboard | For wiring the circuits |
-| IC Chips | 7408 (AND), 7404 (NOT), 7400 (NAND), 7432 (OR) |
+| IC Chips | 7408 (AND), 7404 (NOT), 7432 (OR) |
 | ETS-5000 Digital Training Kit | Provides power, input switches, and LEDs |
 | Jumper Wires | 22-gauge wires with color coding |
 
 ---
 
-## 🧪 Experiments
+## 🧪 Laboratory Work
 
 ### **🟩 Part 1 — AND Gate Circuit**
 - Constructed using 7408 IC
@@ -41,18 +41,19 @@ We used several IC logic gates such as:
 ---
 
 ### **🟧 Part 2 — NAND Gate Circuit**
-- Built using 7400 IC
+- Built using 7408 and 7404 IC
 - Compared truth table results with NAND logic behavior
 
 ---
 
 ### **🟥 Part 3 — Combined Logic Circuit**
+- Build using 7408, 7404 and 7432 IC  
 - Constructed a slightly more complex logic circuit involving multiple gates  
-- Observed that the final circuit behaved like a **single gate equivalent** after simplification
+- Observed that the final circuit behaved like a single gate equivalent after simplification
 
 ---
 
-## 📊 Sample Truth Table (Example)
+## 📊 Truth Table (PART 1)
 
 | A | B | Output |
 |---|---|--------|
@@ -61,17 +62,18 @@ We used several IC logic gates such as:
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-(*Replace with your actual results if needed*)
-
 ---
 
-## 📎 Files Included
-- 📝 Truth tables
-- 📷 Photos of breadboard setup (optional)
-- 🧠 Boolean expressions
+## 📎 File 
+Click [here](https://drive.google.com/file/d/1nH39VpfsZvx0vrBcUHCrn8gyWAWnw8oS/view?usp=drive_link) to view Lab 1 Handout  
 
 ---
+## 📷 Photos
+![93e57857-2962-463f-87b8-5b67db19054f](https://github.com/user-attachments/assets/3884e9e6-72ec-44f6-861d-008c498aa602)  
+*Breadboard*  
 
-## 🏁 Status
-✔️ Completed and tested on hardware  
+![09731db4-95ec-4895-a765-2ac51d7d6e3b](https://github.com/user-attachments/assets/30f55507-169c-47ae-9e11-c3021c5f64eb)
+*PART 1 AND Gate Circuit*  
 
+![e84ed98c-4f13-452d-b807-d9dce675744e](https://github.com/user-attachments/assets/d878ce6a-0448-4231-83ab-768de88c6c3f)
+*PART 3 Combined Logic Circuit*  
