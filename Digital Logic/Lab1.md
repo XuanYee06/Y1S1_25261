@@ -65,7 +65,7 @@ We used several IC logic gates such as:
 ---
 
 ## 📎 File 
-Click [here](https://drive.google.com/file/d/1nH39VpfsZvx0vrBcUHCrn8gyWAWnw8oS/view?usp=drive_link) to view Lab 1 Handout  
+Click [here](Digital Logic/Lab 1 - Handout.pdf) to view Lab 1 Handout  
 
 ---
 
