@@ -8,10 +8,9 @@ This course introduces the fundamentals of programming using the C++ language. I
 ![TYPING](https://github.com/user-attachments/assets/624cc623-5333-482b-9be7-bad5a738800c)
 
 ## 💡 Topics Covered
-- Variables, data types, and operators  
-- Conditional and looping structures  
-- Arrays and functions  
-- Problem-solving using algorithms  
+*Topic 01:* Programming Problem - Solving  
+*Topic 02:* Elementary Programming  
+*Topic 03:* Control Structures  
 <br>
 
 ## 🧠 Reflection
