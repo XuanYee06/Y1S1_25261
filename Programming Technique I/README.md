@@ -11,6 +11,9 @@ This course introduces the fundamentals of programming using the C++ language. I
 *Topic 01:* Programming Problem - Solving  
 *Topic 02:* Elementary Programming  
 *Topic 03:* Control Structures  
+*Topic 04:* Function  
+*Topic 05:* Array  
+
 <br>
 
 ## 🧠 Reflection
