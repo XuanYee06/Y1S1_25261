@@ -14,7 +14,9 @@ This course introduces the fundamentals of programming using the C++ language. I
 *Topic 04:* Function  
 *Topic 05:* Array  
 *Topic 06:* Input and Output  
-*Topic 07:*
+*Topic 07:* Pointers  
+*Topic 08:* Structured Data  
+
 
 <br>
 
