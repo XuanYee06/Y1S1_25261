@@ -13,6 +13,8 @@ This course introduces the fundamentals of programming using the C++ language. I
 *Topic 03:* Control Structures  
 *Topic 04:* Function  
 *Topic 05:* Array  
+*Topic 06:* Input and Output  
+*Topic 07:*
 
 <br>
 
