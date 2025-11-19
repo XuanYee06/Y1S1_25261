@@ -1,4 +1,4 @@
-# Digital Logic
+# SECR1013 - Digital Logic
 👩‍🏫**Lecturer:** Dr. Ts. Raja Zahilah binti Raja Mohd. Radzi  
 🏫**Section:** 03  
 
