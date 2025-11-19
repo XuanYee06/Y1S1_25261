@@ -1,4 +1,4 @@
-# Discrete Structure
+# SECI1013 - Discrete Structure
 👩‍🏫**Lecturer:** Dr. Noorfa Haszlinna binti Mustaffa  
 🏫**Section:** 02  
 
