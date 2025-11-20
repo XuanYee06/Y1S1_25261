@@ -11,9 +11,9 @@
 This industry session was conducted by PPG, a global leader in coatings, paints and specialty materials. The talk covered:
 
 - Introduction to PPG and its global presence
-- Career roles and pathways in the tech and engineering field
-- The importance of innovation in materials and digital solutions
-- Industry expectations and skills required for future graduates
+- Data Analytics
+- Global Infrastructure
+- SAP Overview  
 - Internship and employment opportunities for students
 
 ---
