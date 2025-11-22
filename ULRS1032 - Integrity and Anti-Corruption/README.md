@@ -1,4 +1,4 @@
-# Integrity and Anti-Corruption
+# ULRS1032 - Integrity and Anti-Corruption
 👨‍🏫**Lecturer:** Dr. Fahrul Irfan bin Ishak  
 🏫**Section:** 14  
 
@@ -9,10 +9,17 @@ This course focuses on ethics, honesty, and values in personal and professional 
 
 
 ## 📘 Topics Covered
-- Principles of integrity and moral values  
-- Effects of corruption on society  
-- Anti-corruption laws and practices  
-- Case studies and real-life examples  
+*Topik 1:* Konsep dan Kepentingan Nilai Dalam Kehidupan  
+*Topik 2:* Nilai Dalaman Dengan Pembentangan Jati Diri Dalam Menangani Rasuah  
+*Topik 3:* Integriti Teras Kesejahteraan  
+*Topik 4:* Rasuah Suatu Jenayah Serius  
+*Topik 5:* Agensi Pencegahan Rasuah dan Pemerkasaan Integriti  
+*Topik 6:* Rasuah Berdasarkan Akta SPRM 2009  
+*Topik 7:* Liabiliti Korporat  
+*Topik 8:* Jenayah Kolar Putih  
+*Topik 9:* Punca, Simptom dan Kesan Rasuah  
+*Topik 10:* Laporkan Rasuah, Langkah Pencegahan dan Inisiatif Kerajaan  
+*Topik 11:* Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah  
 <br>
 
 ## 🧠 Reflection
