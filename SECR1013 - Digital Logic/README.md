@@ -9,15 +9,15 @@ This course introduces the basic principles of digital systems and logic design.
 
 
 ## 🧩 Topics Covered
-**Module 1:** Digital Logic Overview   
-**Module 2:** Number Systems and Codes  
-**Module 3:** Logic Gates  
-**Module 4:** Boolean Algeabra and Logic Simplification   
-**Module 5:** Combinational Logic Circuit  
-**Module 6:** Functions of Combinational Logic  
-**Module 7:** Latches and Flip-Flops  
-**Module 8:** Counters  
-**Module 9:** Shift Registers  
+*Module 1:* Digital Logic Overview   
+*Module 2:* Number Systems and Codes  
+*Module 3:* Logic Gates  
+*Module 4:* Boolean Algeabra and Logic Simplification   
+*Module 5:* Combinational Logic Circuit  
+*Module 6:* Functions of Combinational Logic  
+*Module 7:* Latches and Flip-Flops  
+*Module 8:* Counters  
+*Module 9:* Shift Registers  
 <br>
 
 ## 🧠 Reflection
