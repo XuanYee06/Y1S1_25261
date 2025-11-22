@@ -26,6 +26,13 @@ All in all, this presentation reminded me that preparing for a future career req
 
 ---
 
+## 🤪 Thoughts & Impressions
+After this sharing session, I became more and more interested in PPG industry. PPG has always been one of my ideal internship companies because I found that it has a complete technology system, mature workflow and a clear job skill requirements. In my opinion, I think this field will continue to grow and be in line with the needs of more companies, so learning here will give me a better career development path.
+
+Beyond technology, I also saw opportunities in the company culture. I saw that the company values abilities, attitudes, project experience, and a passion for learning, not just grades. I think this approach is fair and encourages those who are always learning and improving.
+
+Furthermore, the company's location is very close to my home, which is very suitable for my future internship and makes me even more excited to have the opportunity to join the team. I hope that one day I can learn more practical skills at PPG and contribute my abilities to the team.
+
 
 ## 📷 Photos
 ![6bedc781-595e-40a9-98c3-281e78ee5ba5](https://github.com/user-attachments/assets/ed6c4c1f-a6ad-4e02-8263-54fb240a9e40)
