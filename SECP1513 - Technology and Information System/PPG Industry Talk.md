@@ -18,18 +18,9 @@ This industry session was conducted by PPG, a global leader in coatings, paints 
 
 ---
 
-## 💡 Key Takeaways
-
-- The tech industry requires both **technical knowledge** (programming, engineering concepts, automation, etc.) and **soft skills** such as communication, teamwork, and adaptability.
-- Innovation is driven by **research, sustainability efforts, and solving real-world problems**.
-- Continuous learning and curiosity are essential for staying relevant in a rapidly changing industry.
-- Networking and being involved in programs like this can open internship or future career opportunities.
-
----
-
 ## 📝 Personal Reflection
 
-Attending this talk gave me a clearer understanding of how industries like PPG evolve using technology and innovation. It also reminded me of the importance of preparing myself not just academically, but also professionally. Learning about real-world applications, company expectations, and potential career paths helped motivate me to continue building skills and exploring opportunities in the tech and engineering field.
+
 
 ---
 
