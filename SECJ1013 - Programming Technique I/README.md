@@ -1,4 +1,4 @@
-# Programming Technique I
+# SECJ1013 - Programming Technique I
 👩‍🏫**Lecturer:** Dr. Goh Eg Su  
 🏫**Section:** 03
 
