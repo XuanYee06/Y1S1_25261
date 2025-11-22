@@ -1,4 +1,4 @@
-# Technology and Information System
+# SECP1513 - Technology and Information System
 👩‍🏫 **Lecturer:** Dr. Aryati binti Bakri  
 🏫 **Section:** 02  
 
@@ -7,14 +7,14 @@ This course introduces the basic concepts of information systems and technology 
 ![it](https://github.com/user-attachments/assets/2c158e3c-8f01-4dc5-8dfd-9034d1a4917b)
 
 ## 📖 Topic Covered
-1.0 *Chapter 1* - Emerging Technology in Information Communication Technology (ICT)  
-2.0 *Chapter 2* - Hardware  
-3.0 *Chapter 3* - Software  
-4.0 *Chapter 4* - Information System & System Analysis and Design
-5.0 *Chapter 5* - Databases and Data Analytics
-6.0 *Chapter 6* - Networks and Communications
-7.0 *Chapter 7* - Privacy, Security, and Ethnics
-8.0 *Chapter 8* - Cloud Computing
+*Chapter 1* - Emerging Technology in Information Communication Technology (ICT)  
+*Chapter 2* - Hardware  
+*Chapter 3* - Software  
+*Chapter 4* - Information System & System Analysis and Design  
+*Chapter 5* - Databases and Data Analytics  
+*Chapter 6* - Networks and Communications  
+*Chapter 7* - Privacy, Security, and Ethnics  
+*Chapter 8* - Cloud Computing
 
 ## 📁 Folders
 - [UTM Digital Open Day](UTMDigital-open-day.md) — my first university event experience.
