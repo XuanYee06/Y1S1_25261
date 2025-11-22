@@ -12,6 +12,8 @@ This course focuses on mathematical concepts used in computer science. It has pr
 *Chapter 1:* Set Theory & Logic  
 *Chapter 2:* Relations and Functions  
 *Chapter 3:* Counting Methods & Probability  
+*Chapter 4:* Graph Theory  
+*Chapter 5:* Finite Automata  
 <br>
 
 ## 🧠 Reflection
