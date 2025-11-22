@@ -33,16 +33,6 @@ Attending this talk gave me a clearer understanding of how industries like PPG e
 
 ---
 
-## 🎯 Why I Joined
-
-I attended this talk because I wanted to:
-
-- Explore real industry insights beyond the classroom
-- Understand possible job roles in my future career
-- Learn how technology is applied in large-scale companies like PPG
-- Network with professionals and gain exposure to internship opportunities
-
----
 
 ## 📷 Photos
 ![6bedc781-595e-40a9-98c3-281e78ee5ba5](https://github.com/user-attachments/assets/ed6c4c1f-a6ad-4e02-8263-54fb240a9e40)
