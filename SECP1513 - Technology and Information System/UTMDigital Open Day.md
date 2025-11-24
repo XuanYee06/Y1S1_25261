@@ -21,7 +21,7 @@
 
 
 **Vision:**  
-To empower a digitally driven UTM community through innovation and collaboration that inspires the use of technology in creating a smarter and more sustainable future for all.
+To empower a digitally driven UTM community through innovation and collaboration that inspires the use of technology in creating a smarter and more sustainable future for all.  
 <br>
 
 ---
