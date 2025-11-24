@@ -2,7 +2,7 @@
 👩‍🏫 **Lecturer:** Dr. Aryati binti Bakri  
 🏫 **Section:** 02  
 
-This course introduces the basic concepts of information systems and technology in organizations. It covers topics such as computer hardware, software, networking, and system development.  
+This course introduces the basic concepts of information systems and technology in organizations. It covers topics such as computer hardware, software, networking and system development.  
 
 ![it](https://github.com/user-attachments/assets/2c158e3c-8f01-4dc5-8dfd-9034d1a4917b)
 
@@ -15,10 +15,6 @@ This course introduces the basic concepts of information systems and technology 
 *Chapter 6* - Networks and Communications  
 *Chapter 7* - Privacy, Security, and Ethnics  
 *Chapter 8* - Cloud Computing
-
-## 📁 Folders
-- [UTM Digital Open Day](UTMDigital-open-day.md) — my first university event experience.
-- [Lab1 - PC Assembly](https://github.com/XuanYee06/MyUniversityJourney/blob/9d2ced9f7e158231f6b6ed65da38e2489be0f471/TIS%20Lab1.md) — my first TIS hands-on practical test  
 <br>
 
 ## 🌟Reflection
