@@ -1,4 +1,4 @@
-# UTMDigital Open Day — Photo Highlights & Reflection
+# Assignment 1 — UTMDigital Open Day
 
 **Group Name:** Technexus  
 **Date:** 28 & 29 October 2025  
