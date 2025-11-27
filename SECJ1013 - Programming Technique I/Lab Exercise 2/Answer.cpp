@@ -1,11 +1,10 @@
-```
 #include <iostream>
 using namespace std;
 int main()
 {
     int N;
     cout << "Enter the number of lines: ";
-    cin>> N;
+    cin >> N;
     int i = 1;
   
     while (i <= N){
@@ -22,13 +21,13 @@ int main()
   
     return 0;
 }
-```
 
-## Example Output
+---
+
+/* Example Output
+
 When N = 3,
-
-```
 Enter the number of lines: 3
 1
 1 2
-1 2 3
+1 2 3*/
