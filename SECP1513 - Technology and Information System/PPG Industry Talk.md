@@ -1,4 +1,4 @@
-# 🎤 PPG Industry Talk 
+# 🎤 Assignment 2 — PPG Industry Talk 
 
 📆**Date:** 20 November 2025  
 🕑 **Time:** 2:30pm - 3:35pm  
