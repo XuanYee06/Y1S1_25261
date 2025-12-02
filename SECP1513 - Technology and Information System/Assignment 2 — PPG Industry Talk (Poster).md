@@ -54,4 +54,4 @@ After the PPG industry talk, we received a task to create a A4 - sized poster ba
 
 
 ## 🖼️ Final Poster
-
+Click [here]() to view our poster
