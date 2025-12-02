@@ -52,3 +52,6 @@ Group photo of future data engineers 😎
 After the PPG industry talk, we received a task to create a A4 - sized poster based on the talk content.  
 [Assignment 1 Poster PPG.docx](https://github.com/user-attachments/files/23667927/Assignment.1.Poster.PPG.docx)
 
+
+## 🖼️ Final Poster
+
