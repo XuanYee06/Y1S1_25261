@@ -43,14 +43,15 @@ Pragram poster
 <br>
 
 ![9a9abcea-5316-4897-91ee-cc8123299e9a](https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b)
-Group photo of future data engineers 😎  
+Group photo of future data engineers 😎   
+<br>
 
 ---
 
 ## 📎Task After the Talk
 After the PPG industry talk, we received a task to create a A4 - sized poster based on the talk content.  
-[Assignment 1 Poster PPG.docx](https://github.com/user-attachments/files/23667927/Assignment.1.Poster.PPG.docx)
-
+[Assignment 1 Poster PPG.docx](https://github.com/user-attachments/files/23667927/Assignment.1.Poster.PPG.docx)  
+<br>
 
 ## 🖼️ Final Poster
 Click [here]() to view our poster
