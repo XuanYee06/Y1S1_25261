@@ -1,4 +1,4 @@
-# 🎤 Assignment 2 — PPG Industry Talk  
+# 🎤 Assignment 2 — PPG Industry Talk 
 
 📆**Date:** 20 November 2025  
 🕑 **Time:** 2:30pm - 3:35pm  
@@ -7,7 +7,6 @@
 ---
 
 ## 📌 About the Talk
-
 This industry session was conducted by PPG, a global leader in coatings, paints and specialty materials. The talk covered:
 
 - Introduction to PPG and its global presence
