@@ -54,4 +54,5 @@ After the PPG industry talk, we received a task to create a A4 - sized poster ba
 <br>
 
 ## 🖼️ Final Poster
-Click [Group 10 Industry Talk Poster.pdf](https://github.com/user-attachments/files/23963056/Group.10.Industry.Talk.Poster.pdf) to view our poster
+Click  to view our poster  
+[Group 10 Industry Talk Poster.pdf](https://github.com/user-attachments/files/23963056/Group.10.Industry.Talk.Poster.pdf)
