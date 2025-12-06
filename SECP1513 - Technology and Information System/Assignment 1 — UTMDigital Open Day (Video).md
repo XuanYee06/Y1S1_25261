@@ -1,6 +1,6 @@
 # Assignment 1 — UTMDigital Open Day
 
-**Group Name:** Technexus  
+**Group 10:** Technexus  
 **Date:** 28 & 29 October 2025  
 
 |Members|Roles|
