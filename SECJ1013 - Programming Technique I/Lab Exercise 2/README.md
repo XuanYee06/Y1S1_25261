@@ -12,9 +12,3 @@ We were required to:
 - Save the file using the required naming format  
 - Submit the completed C++ file through the eLearning platform
 
-## 🎯 Purpose of This Repository
-This repository serves as:
-- A record of the lab exercise  
-- A place for tracking my learning progress  
-- A documentation of coursework activities  
-
