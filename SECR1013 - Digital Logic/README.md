@@ -8,6 +8,7 @@ This course introduces the basic principles of digital systems and logic design.
 ![gate](https://github.com/user-attachments/assets/9be887da-8cac-4856-90c5-1c263421a297)
 
 
+
 ## 🧩 Topics Covered
 *Module 1:* Digital Logic Overview   
 *Module 2:* Number Systems and Codes  
