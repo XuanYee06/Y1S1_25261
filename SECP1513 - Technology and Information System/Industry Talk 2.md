@@ -13,3 +13,6 @@ All in all, this industry talk motivated me to start cultivate good habits now b
 <br>
 
 ## 📸 Photo Highlights  
+![70f8d428-2b52-469a-940b-7bfd873569f2](https://github.com/user-attachments/assets/ff9ecbfc-ac2d-46c6-b51b-410f14c60fb8)
+![c659644d-8527-4a2e-b8a6-9d148c74270e](https://github.com/user-attachments/assets/ac64bff2-a7ef-4f23-bdad-c24ec0251d4f)
+![5eb8c1dc-ebc7-4913-8e20-13a7be93b66e](https://github.com/user-attachments/assets/fa5b4c75-c4b8-42fa-be21-0d1a96f100e1)
