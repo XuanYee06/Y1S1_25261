@@ -30,7 +30,7 @@ It was a meaningful experience for me and my group members while shooting and ed
 
 During the video shooting progress, we faced a few challenges, especially with coordinating the recording locations, schedules and making sure the audio and visuals were clear. However, these challenges helped us learn to communicate and collaborate with each others. Everyone contributed in different ways, including acting, recording, editing and reviewing the final product. 
 
-All in all, finishing this video project not only strengthened my understanding of anti-corruption values but also my communication skills. Throughout this task, I learned that integrity is not just a concept, it also must be practiced in our actions and decisions. 
+All in all, finishing this video project not only strengthened my understanding of anti-corruption values but also my communication skills. Throughout this task, I learned that integrity is not just a concept, it also must be practiced in our actions and decisions.   
 <br>
 
 ---
