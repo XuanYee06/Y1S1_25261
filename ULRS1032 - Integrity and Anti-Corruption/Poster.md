@@ -26,5 +26,4 @@ All in all, the discussions and collaboration helped us complete the task succes
 
 ## 📑 Final A2 - Sized Poster
 Click the link below to view our poster.  
-https://www.canva.com/design/DAG3J5BupAU/4_jL9nOSFJrX2wjhQJG7rw/edit?utm_content=DAG3J5BupAU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
