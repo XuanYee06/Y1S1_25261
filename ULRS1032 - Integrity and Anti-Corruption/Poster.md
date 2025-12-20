@@ -8,7 +8,7 @@ Click the link below to view our task document!
 
 ## 🔗 Methodology - Google Form
 Click the link below to view our survey questions!  
-https://docs.google.com/forms/d/e/1FAIpQLSeLCp8yS2rh0xfvfh7-RcnRiQBtcsraUY4w9wwspeZQUgZhYQ/viewform  
+https://docs.google.com/forms/d/e/1FAIpQLSeLCp8yS2rh0xfvfh7-RcnRiQBtcsraUY4w9wwspeZQUgZhYQ/viewform   
 <br>
 
 
@@ -18,7 +18,7 @@ Before starting to create a poster, my group members and I held several face-to-
 
 We summarized and designed the key sections such as methodology and findings into our poster. It took time for us to revise the layout, check the accuracy of facts and ensure a proper referencing. After submitting this poster, we are required to present our poster and ideas to our friends in front of the lecture hall. In my opinion, although the task was challenging, it strengthened my research skills and improved my ability to present information clearly. 
 
-All in all, the discussions and collaboration helped us complete the task successfully and deepened my understanding on how integrity plays a critical role in preventing corruption in the society.  
+All in all, the discussions and collaboration helped us complete the task successfully and deepened my understanding on how integrity plays a critical role in preventing corruption in the society.   
 <br>
 
 
