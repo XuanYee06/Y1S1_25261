@@ -26,4 +26,5 @@ All in all, the discussions and collaboration helped us complete the task succes
 
 ## 📑 Final A2 - Sized Poster
 Click the link below to view our poster.  
+[Group 1.pdf](https://github.com/user-attachments/files/24271203/Group.1.pdf)
 
