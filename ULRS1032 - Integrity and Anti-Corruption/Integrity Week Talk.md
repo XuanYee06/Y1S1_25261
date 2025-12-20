@@ -3,10 +3,12 @@
 📍Location: Lecture Hall 7, Block N24, Universiti Teknologi Malaysia   
 🕜Time: 2pm - 5pm  
 
+
 ## 🧠 Reflection
 Throughout the talk, I gained a deeper understanding of integrity, accountability and anti-corruption strategies after listening to experienced alumni and SPRM Johor officers. In my opinion, the interactive Q&A sessions encouraged thoughtful discussions. Seeing our university community actively promoting integrity is truly inspiring and it reminds me once again of the importance of upholding moral values ​​in all aspects of life. 
 
-All in all, this event reminded me the importance of understanding, appreciating and practicing ethical values and maintaining integrity throughout my time at UTM and beyond.
+All in all, this event reminded me the importance of understanding, appreciating and practicing ethical values and maintaining integrity throughout my time at UTM and beyond.  
+<br>
 
 ## 📷 Photo Highlights
 
