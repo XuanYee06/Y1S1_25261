@@ -2,7 +2,7 @@
 👩‍🏫**Lecturer:** Dr. Noorfa Haszlinna binti Mustaffa  
 🏫**Section:** 02  
 
-This course focuses on mathematical concepts used in computer science. It has provide the introduction of the mathematical concept related to computer science field. It improved my problem-solving and logical thinking skills.
+This course focuses on mathematical concepts used in computer science. It introduces the mathematical concept related to computer science field. It improved my problem solving and logical thinking skills.
 <br>
 
 ![discrete](https://github.com/user-attachments/assets/cc0c5f95-cbad-4cd5-8d7b-f8c5316b6262)
