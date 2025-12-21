@@ -2,7 +2,7 @@
 👩‍🏫**Lecturer:** Dr. Goh Eg Su  
 🏫**Section:** 03
 
-This course introduces the fundamentals of programming using the C++ language. I learned how to write, debug and test simple programs. At the same time, through practical assignments and projects, my problem-solving abilities were strengthened. The skills gained in this course are expected to be useful in future programming tasks.
+This course introduces the fundamentals of programming using the C++ language. I learned how to write, debug and test simple programs. At the same time, my problem solving skills were strengthened through practical assignments and lab exercises. The skills gained in this course are expected to be useful in future programming tasks.
 <br>
 
 ![TYPING](https://github.com/user-attachments/assets/624cc623-5333-482b-9be7-bad5a738800c)
