@@ -8,6 +8,7 @@ MATRICS NUMBER: A25CS0291
 DATE: 25 DECEMBER 2025
 */
 
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -114,3 +115,4 @@ int main(){
 	cout<<"Thank you :)";
 	return 0;
 }
+
