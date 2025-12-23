@@ -15,9 +15,7 @@ After listening to the welcome address by Vice-Chancellor of UTM and officiating
 
 Moreover, Prof. Dr. Masahiro Kitagawa's presentation was one of the most impressive of the event. He explained Japan's quantum strategy, quantum computing and quantum innovation in Japan, challenges toward Fault-Tolerant QC and QIQB at The University of Osaka. Throughout the session, I learned how quantum computing could help to solve some of the most complex problems in nature. For example, biological nitrogen fixation and photosynthesis carbon fixation. It was my first time hearing about how quantum computing could be applied to biological nitrogen fixation and photosynthesis. After that, Mr. Ling Keok Tong, Executive Director gave insights into Singapore’s national quantum direction too. These plenary sessions conducted by Prof. Kitagawa and Mr. Ling from two different countries helped me understand how Japan and Singapore are planning their quantum future.  
 
-Last but not least, the most engaging part of the event was the exhibition booth visit because it allowed us to explore research posters, demonstrations and technology displays. In my opinion, I felt motivated to look at the real projects and collaborations happening in the region.
-
-It was my first time listening to a talk at the ASEAN Quantum Summit 2025. All in all, this event gave me a better understanding of how professionals think about the quantum technology. I hope to see more university students learn about and participate in quantum technology, because Southeast Asia's quantum era isn't about waiting for others to lead us in, it's about us taking the stage ourselves.  
+Last but not least, the most engaging part of the event was the exhibition booth visit because it allowed us to explore research posters, demonstrations and technology displays. In my opinion, I felt motivated to look at the real projects and collaborations happening in the region. All in all, this event gave me a better understanding on how professionals think about the quantum technology. I hope to see more university students learn about and participate in quantum technology.
 <br>
 
 ## 📷 Photo Highlights
