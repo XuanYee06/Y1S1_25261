@@ -5,7 +5,7 @@
 <br>
 
 ## 🤔 What is ASEAN Quantum Summit 2025？ 
-In my opinion, this is no ordinary an academic conference, it's the first official summit in Southeast Asia themed around "quantum," jointly hosted by 10 ASEAN countries and is organized by Universiti Teknologi Malaysia and International Year of Quantum Science and Technology. This event is organized to raise awareness and become interested in quantum technology. Many people feel that such events are far away from us, but in fact they are opening a door for our generation.  
+In my opinion, this is no ordinary an academic conference, it's the first official summit in Southeast Asia themed around "quantum," jointly hosted by 10 ASEAN countries and is organized by Universiti Teknologi Malaysia and International Year of Quantum Science and Technology. This event is organized to raise awareness and become interested in quantum technology. Many people feel that such events are far away from us, but in fact they are opening a door for our generation.    
 <br>
 
 ## 🧠 Reflection
