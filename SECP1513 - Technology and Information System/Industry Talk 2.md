@@ -2,7 +2,7 @@
 📆**Date:** 18 December 2025  
 🕑**Time:** 2pm - 3:30pm  
 📍**Location:** Hyflex Classroom, N28A  
-🎤**Speaker:** Ts. Hj. Abdul Alim bin Abdul Muttalib
+🎤**Speaker:** Ts. Hj. Abdul Alim bin Abdul Muttalib  
 <br>
 
 ## 🧠 Reflection
