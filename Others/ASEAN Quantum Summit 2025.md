@@ -25,6 +25,8 @@ Last but not least, the most exciting part of the event was the exhibition booth
 https://github.com/user-attachments/assets/60f7abbb-fc81-4425-81c6-04e2fd7c35cb  
 Opening Ceremony of ASEAN Quantum Summit 2025  
 <br>
+![8453b466-aecd-44be-b88d-6a98ef585d50](https://github.com/user-attachments/assets/0951ce85-842c-4bb0-9b9e-1feff4373857)  
+<br>
 
 ![b57ef142-a347-40a3-b62a-4aa39f2ec0d0](https://github.com/user-attachments/assets/d3c84e8d-7c07-4fac-9773-4a920bbea71a)
 Memorandum of Understanding (MoU) Exchange between UTM & Center of Quantum Information and Quantum Biology  
