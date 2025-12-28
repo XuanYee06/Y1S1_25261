@@ -17,5 +17,17 @@ This course introduces the basic concepts of information systems and technology 
 *Chapter 8* - Cloud Computing
 <br>
 
+## 📖 Coursework
+|Title|Link|
+|---|---|
+|Assignment 1|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%201%20%E2%80%94%20UTMDigital%20Open%20Day%20(Video).md)|
+|Assignment 2|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%202%20%E2%80%94%20PPG%20Industry%20Talk%20(Poster).md)|
+|Assignment 3|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%203%20%E2%80%94%20Serunai%20Industry%20Talk%20(Report).md)|
+|Design Thinking|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md)|
+|PC Assembly|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Lab%201%20%E2%80%94%20PC%20Assembly.md)|
+|Program Pembangunan Pelajar SECP|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Program%20Pembangunan%20Pelajar%20SECP%202025.md)|
+|ASEAN Quantum Summit 2025|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/c425492637476de8b32afd17816f19a000918502/SECP1513%20-%20Technology%20and%20Information%20System/ASEAN%20Quantum%20Summit%202025.md)|
+<br>
+
 ## 🌟Reflection
 In this course, I learned about hardware, software, databases and network communications. I hope there are more hands on lab sessions like the earlier PC Assembly lab practical because I found it was a great way for me to learn practical skills and know more about PC components. Besides that, I would like to have more industry talks as I found it helped me gain a clearer understanding of the job roles, skill requirements and future job opportunities that are not covered in textbooks. From my perspective, attending a industry talks will improve our soft skills such as communication, teamwork and collaboration as we are required to complete an assignment or report with our team members after each talk. a clearer picture of how IT professionals contribute to different industries and inspired me to continue learning about technology’s impact on society.
