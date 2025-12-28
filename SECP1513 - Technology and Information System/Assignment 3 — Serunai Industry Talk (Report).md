@@ -6,7 +6,8 @@
 <br>
 
 ## 📰 Report
-Click here to view my report  
+Click [here](https://github.com/user-attachments/files/24357887/Assignment.3.Group.10.TIS.pdf) to view my report
+
 <br>
 
 ## 🧠 Reflection
