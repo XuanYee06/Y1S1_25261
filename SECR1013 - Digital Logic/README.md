@@ -21,5 +21,11 @@ This course introduces the basic principles of digital systems and logic design.
 *Module 9:* Shift Registers  
 <br>
 
+## 📖 Coursework
+|Title|Link|
+|---|---|
+|Lab 1|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/84a0e467badec989df1e871039f82b2bac549518/SECR1013%20-%20Digital%20Logic/Lab1.md)|
+|Lab 2|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/84a0e467badec989df1e871039f82b2bac549518/SECR1013%20-%20Digital%20Logic/Lab%202.pdf)|
+
 ## 🧠 Reflection
 In Digital Logic, I learned fundamental concepts that make up computer hardware systems. I discovered how computers use binary numbers and logic gates to process information. This course helped me appreciate the importance of logic design in building reliable and efficient computer systems. I also developed stronger analytical and problem-solving skills while designing and testing logic circuits. Through hands-on exercises, I learned how simple logical operations can combine to form a complex digital circuit systems. This course built my foundation for understanding how computer hardware works. Besides that, the lab sessions and project helped me understand logic functions more effectively. I hope more practical lab sessions or project assignments will be conduct in the future so that it is easier for me to visualize and understand the complex circuits.  
