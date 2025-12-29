@@ -15,14 +15,14 @@ Two invited speakers were En. Baharudin Mastari, Timbalan Penolong Kanan of facu
 ---
 
 ## 🧠 Reflection
-Throughout this program, I learned the importance of aligning personal goals with UTM’s Graduate Attributes, such as communication, leadership and lifelong learning. The CV writing session was particularly useful because the speaker taught me a lots of practical tips to present my qualifications and experiences more effectively. Furthermore, the senior sharing sessions and group activities helped me understand the importance of teamwork and adaptability in professional settings.  
+Throughout this program, I learned the importance of aligning personal goals with UTM’s Graduate Attributes, such as communication, leadership and lifelong learning. The CV writing session was very useful because the speaker taught me a lots of practical tips to present my qualifications and experiences more effectively. Furthermore, the senior sharing sessions and group activities helped me understand the importance of teamwork and adaptability in professional settings.  
 
 During the group activities, my senior shared some valuable experiences for us such as we are encourage to participate on each of the competitions especially Hackathon to gain our experience. Overall, this program enhanced my awareness of career preparation and inspired me to continuously develop both academics and soft skills to succeed in my future career.  
 <br>
 
 ---
 
-## 📸 Highlight
+## 📸 Photo Highlight
 ![d190547c-2bd0-4b89-9e87-69f60b32bebb](https://github.com/user-attachments/assets/d221876a-f594-49f4-bf32-336efd2ca236)  
 *Group photo*  
 
