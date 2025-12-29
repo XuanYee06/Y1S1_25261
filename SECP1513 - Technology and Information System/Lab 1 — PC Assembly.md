@@ -15,9 +15,9 @@
 ---
 
 ## 🧠 Reflection
-In this lab session, we learned how to assemble and disassemble a PC. This was the first time for me to disassemble a PC and saw its internal computer hardware. The lecturer demonstrated the correct steps to handle computer components such as the motherboard, RAM, power supply and hard disk. After the demonstration, we practiced assembling and disassembling the PC in a group of six.
+In this lab session, we learned how to assemble and disassemble a PC. This was the first time for me to disassemble a PC and saw its internal computer hardware. The lecturer demonstrated the correct ways to handle the computer components such as the motherboard, RAM, power supply and hard disk. After the demonstration, we practiced how to assemble and disassemble the PC in a group of six.
 
-Though this lab session, I have the opportunity to learn how each component connects and functions together to form a complete system. It was exciting to experience hands-on work instead of only learning from slides. Working in a group also taught me teamwork, patience and communication when sharing tools and completing tasks together. Thank you Dr. Aryati for giving us this opportunity to gain my experience!  
+Though this lab session, I have the opportunity to learn how each component connects and functions together to form a complete system. It was exciting to experience hands-on work instead of only learning from slides. Working in a group also improved my teamwork, patience and communication skills when sharing tools and completing tasks together. Thank you Dr. Aryati for giving us this opportunity to gain my experience!  
 <br>
 
 ---
