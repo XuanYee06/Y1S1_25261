@@ -12,6 +12,7 @@
 - Completed a quiz based on the hands-on session to test our understanding  
 <br>
 ---
+
 ## 🧠 Reflection
 In this lab session, we learned how to assemble and disassemble a PC. This was the first time for me to disassemble a PC and saw its internal computer hardware. The lecturer demonstrated the correct steps to handle computer components such as the motherboard, RAM, power supply and hard disk. After the demonstration, we practiced assembling and disassembling the PC in a group of six.
 
