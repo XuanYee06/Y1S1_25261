@@ -11,6 +11,7 @@
 - Reassembled the PC and ensured it could boot properly  
 - Completed a quiz based on the hands-on session to test our understanding  
 <br>
+
 ---
 
 ## 🧠 Reflection
