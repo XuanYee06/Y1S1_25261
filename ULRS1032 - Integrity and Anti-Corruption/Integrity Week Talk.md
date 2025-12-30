@@ -5,7 +5,7 @@
 <br>
 
 ## 🧠 Reflection
-Throughout the talk, I gained a deeper understanding of integrity, accountability and anti-corruption strategies after listening to experienced alumni and SPRM Johor officers. In my opinion, the interactive Q&A sessions encouraged thoughtful discussions. It is inspiring for me to see that integrity promotion activities are taking place within our university community, where it drives home once again for me the need for moral integrity in all walks of life.
+Throughout the talk, I gained a deeper understanding of integrity, accountability and anti-corruption strategies after listening to experienced alumni and SPRM Johor officers. In my opinion, the interactive Q&A sessions encouraged thoughtful discussions. It is inspiring for me to see activities to promote integrity being conducted in the university community. It reminds me of the moral of integrity in life.
 
 All in all, this event reminded me the importance of understanding and practicing ethical values and maintaining integrity throughout my time at UTM and beyond.  
 <br>
