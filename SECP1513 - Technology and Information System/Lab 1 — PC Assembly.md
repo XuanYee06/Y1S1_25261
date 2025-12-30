@@ -1,4 +1,4 @@
-# 🧪 Lab 1 — PC Assembly and Disassembly
+# Lab 1 — PC Assembly and Disassembly
 
 🗓️ Date: 30 October 2025  
 🕓 Time: 4pm - 5pm  
@@ -9,7 +9,7 @@
 - Watched the lecturer’s demonstration of PC assembly and disassembly  
 - Managed to handle carefully with components  
 - Reassembled the PC and ensure it could boot properly  
-- Attended a quiz based on the hands-on session to test our level of understanding  
+- Attended a quiz based on the hands-on session to test our level of understanding   
 <br>
 
 ---
