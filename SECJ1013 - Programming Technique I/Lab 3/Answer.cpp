@@ -1,6 +1,6 @@
-//NG XUAN YEE
-//A25CS0291
-//30 DECEMBER 2025
+//NAME: NG XUAN YEE
+//MATRICS NUMBER: A25CS0291
+//DATE: 30 DECEMBER 2025
 
 #include <iostream>
 using namespace std;
@@ -15,4 +15,5 @@ int main(){
         cout<<endl;
     }
     return 0;
+
 }
