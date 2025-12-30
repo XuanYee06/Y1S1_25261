@@ -14,14 +14,6 @@ We used several IC logic gates such as:
 
 ---
 
-## 🎯 Objectives
-- Learn proper breadboard wiring techniques  
-- Understand how to use input switches and output LEDs  
-- Test and verify the behavior of basic logic gates  
-- Build circuits and compare the real output with theoretical truth tables  
-
----
-
 ## 🧰 Equipment Used
 | Item | Description |
 |------|------------|
@@ -83,9 +75,9 @@ Click [here](https://github.com/XuanYee06/MyUniversityJourney/blob/7c14801116182
 
 ## 📝 Reflection
 
-This lab was my first hands-on experience with digital logic and it was fun and interesting! It helped me understand how theoretical logic gates behave in real hardware. Before this, I felt logic gates were abstract because everything was done on paper. In my opinion, it feels more interactive by using breadboards, switches and LEDs.
+This lab was the first time I worked directly with digital logic and it was fun and interesting. It helped me understand how theoretical logic gates behave in real hardware. Before this, I felt logic gates were abstract since everything was done on paper. In my opinion, it feels more interactive by using breadboards, switches and LEDs.
 
-One of the challenges I faced was to ensure the wires were connect correctly and to make sure the circuit was clean and organized to avoid mistakes and errors. Besides that, I also learned the importance of checking the IC orientation and verifying logic outputs using the mode switch and LEDs.
+One of the challenges I faced was to ensure the wires are properly connected, at the same time to make sure the circuit was clean to avoid mistakes and errors. Besides that, I also learned the importance of ensuring that the IC was in the correct orientation and verifying the logic outputs using the mode switch and LEDs.
 
-All in all, this lab helped me connect theory with physical implementation. Now, I feel more confident to handle logic gate circuits and interpret the truth tables from real measurements instead of only theoretical assumptions.
+All in all, I think that this lab helped me to apply theory to the physical process of implementation itself. Now, I feel more confident to handle logic gate circuits and interpret the truth tables from real measurements instead of only theoretical assumptions.
 
