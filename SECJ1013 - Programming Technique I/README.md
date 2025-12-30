@@ -7,7 +7,7 @@ This course introduces the programming basics using the C++ language. I learned 
 
 ![TYPING](https://github.com/user-attachments/assets/624cc623-5333-482b-9be7-bad5a738800c)
 
-## 💡 Topics Covered
+## 📘 [Topics Covered](https://drive.google.com/drive/folders/1Bnq4141G0cmEZoZbuYw4cQD1A8vwmCtv?usp=drive_link)
 *Topic 01:* Programming Problem - Solving  
 *Topic 02:* Elementary Programming  
 *Topic 03:* Control Structures  
