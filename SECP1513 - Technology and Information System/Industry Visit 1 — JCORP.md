@@ -4,9 +4,9 @@
 📍 **Location:** Ibrahim International Business District, Level 24, Menara KOMTAR, 80888 Johor
 
 ## 🧠 Reflection
-Today, I had the opportunity to attend a sharing session by JCorp. From the sharing session, I knew that JCorp is involved in several areas such as agribusiness (JPG), wellness & healthcare (KPJ healthcare), food & restaurants (KFC, Pizza Hut), real estate & infrastructure and foundations & waqf. Besides that, the speaker also shared about the JCorp journey starting from 2020, the cloud-first strategy. JCorp is going to establish a Command Centre to serve as central nerve system for real-time insights and strategic foresight in April 2026. It integrates 8 core digital elements which are AI & Analytics, Real-time Data Integration, Interactive Intelligence Dashboards, Security & Surveillance, Predictive Analytics - Foresights, Communication & Collaboration, Automation System and Business Intelligence Platform.
+Today, I had the chance to attend a sharing session by JCorp. From the sharing session, I knew that JCorp has business operations in several sectors such as agribusiness (JPG), wellness & healthcare (KPJ healthcare), food & restaurants (KFC, Pizza Hut), real estate & infrastructure and foundations & waqf. Besides that, the speaker also shared about the JCorp journey starting from 2020, the cloud-first strategy. JCorp is going to establish a Command Centre to serve as central nerve system for real-time insights and strategic foresight in April 2026. It integrates 8 core digital elements which are AI & Analytics, Real-time Data Integration, Interactive Intelligence Dashboard, Security & Surveillance, Predictive Analytics - Foresights, Communication & Collaboration, Automation System and Business Intelligence Platform.
 
-All in all, this sharing broadened my perspective on career possibilities and encouraged me to think beyond a single industry. It motivated me to continuously build relevant skills and a strong mindset to stay adaptable in an ever-changing professional landscape.  
+All in all,  this sharing opened my eyes to the various career paths and urged me to explore outside one sector. It also encouraged me to develop skills and a strong mindset, and learn how to use AI wisely to be flexible with the rapidly changing world of work.
 <br>
 
 ## 📷 Photo Highlights
