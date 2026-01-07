@@ -1,7 +1,8 @@
 # Industry Visit 1 — Johor Corporation (JCORP)
 📆 **Date:** 7 January 2026  
 🕢 **Time:** 7:30am - 12pm  
-📍 **Location:** Ibrahim International Business District, Level 24, Menara KOMTAR, 80888 Johor
+📍 **Location:** Ibrahim International Business District, Level 24, Menara KOMTAR, 80888 Johor  
+🎤 **Speaker:** [Budiman Bujang](https://www.linkedin.com/in/budimanbujang/)  
 <br>
 
 ## 🧠 Reflection
@@ -19,5 +20,10 @@ All in all,  this sharing opened my eyes to the various career paths and urged m
 ![f0daaa0a-5a31-404e-a04d-069442408c36](https://github.com/user-attachments/assets/54c4cf0c-add7-4fda-94e9-8f3c98dcb4d3)
 ![c054ec6a-6ba7-4e64-a18d-1f2fd459846b](https://github.com/user-attachments/assets/4ba931bb-bc14-4351-8aff-8daa0eb0d150)
 ![ac1d37dc-0f7b-4ae5-8456-c09ebb08e49e](https://github.com/user-attachments/assets/7606f8c6-3c1f-4ef3-93cd-ad75c4ffca3f)
-![24742e93-e929-42a5-b223-96dc7d0792d3](https://github.com/user-attachments/assets/475b2fe4-810a-4dbb-9af0-0a7c6c7e8681)
+![24742e93-e929-42a5-b223-96dc7d0792d3](https://github.com/user-attachments/assets/475b2fe4-810a-4dbb-9af0-0a7c6c7e8681)  
+<br>
+
+## 📋 Presentation Slide
+[Click to view](https://github.com/user-attachments/files/24467450/JCORP.pdf)
+
 
