@@ -26,6 +26,7 @@ This course introduces the programming basics using the C++ language. I learned 
 |Assignment 3|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECJ1013%20-%20Programming%20Technique%20I/Assignment%203.cpp)|
 |Lab 2|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/df31159798009aacaed8d87a6f9bf6854582fad9/SECJ1013%20-%20Programming%20Technique%20I/Lab%202)|
 |Lab 3|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/c985fd961263c16e7432ccb90136eeeeaf9c30ff/SECJ1013%20-%20Programming%20Technique%20I/Lab%203)|
+|Lab 4|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECJ1013%20-%20Programming%20Technique%20I/Lab%204)|
 <br>
 
 ## 🧠 Reflection
