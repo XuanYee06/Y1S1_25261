@@ -19,7 +19,8 @@
 |Presentation Slide|[View]()|
 |Presentation Video|[View]()|
 |DEEDS Demo Video|[Video]()|
-|DEEDS Design Circuit|[View]()|
+|DEEDS Design Circuit|[View]()|  
+<br>
 
 ## 🧠 Reflection
 
