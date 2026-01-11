@@ -16,10 +16,11 @@
 |Materials|Link|
 |---|---|
 |Report|[View]()|
-|Presentation Slide|[View]()|
+|Presentation Slide|[View](https://www.canva.com/design/DAG9zTIcVQc/Tzc1OOCdorBy1E8zPOxtTw/edit)|
 |Presentation Video|[View]()|
-|DEEDS Demo Video|[Video]()|
-|DEEDS Design Circuit|[View]()|  
+|DEEDS Part 2 Demo Video|[Video](https://drive.google.com/file/d/1uGzXgmPPR2nlKNAhZm3Hz8JlKdmfJj4H/view)|
+|DEEDS Design Circuit Draft|[View]()|
+|Final DEEDS Design Circuit|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Project/DEEDS%20Design%20Circuit)|  
 <br>
 
 ## 🧠 Reflection
