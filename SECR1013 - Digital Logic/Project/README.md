@@ -15,7 +15,7 @@
 ## 🔖 Project Materials
 |Materials|Link|
 |---|---|
-|Report|[View]()|
+|Report|[View](https://github.com/user-attachments/files/24577991/GROUP.2.REPORT.pdf)|
 |Presentation Slide|[View](https://www.canva.com/design/DAG9zTIcVQc/Tzc1OOCdorBy1E8zPOxtTw/edit)|
 |Presentation Video|[View](https://drive.google.com/file/d/1k-7kjdjgd-gKD8ftl0ZkdxR9uVfbl8bB/view?usp=drive_link)|
 |DEEDS Part 2 Demo Video|[View](https://drive.google.com/file/d/1uGzXgmPPR2nlKNAhZm3Hz8JlKdmfJj4H/view)|
