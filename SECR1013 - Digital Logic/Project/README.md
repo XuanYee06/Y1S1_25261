@@ -24,4 +24,6 @@
 <br>
 
 ## 🧠 Reflection
+This project gave me a practical experience of applying the theory of digital logic to design a real-life control system. This happened when I choose to design and build an electronic lift controller system using the principle of 3-bit synchronous counter with D flip=flops to reinforce the concepts related to the behavior of sequential circuits.
 
+Other than that, the use of DEEDS Simulator also enabled me to test the correctness of my circuit design and examine how both combinational and sequential circuits will interact with each other. Although I faced some difficulties while deriving the next state logic and some problems encountered while debugging the circuits at the beginning, making a lot of research and test my circuit using DEEDS helped to overcome these problems. All in all, this project has improved my teamwork, analytical mind, problem-solving skills and confidence when designing the digital systems.
