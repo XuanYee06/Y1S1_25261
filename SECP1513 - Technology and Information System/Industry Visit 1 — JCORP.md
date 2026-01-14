@@ -2,8 +2,13 @@
 📆 **Date:** 7 January 2026  
 🕢 **Time:** 7:30am - 12pm  
 📍 **Location:** Ibrahim International Business District, Level 24, Menara KOMTAR, 80888 Johor  
-🎤 **Speaker:** [Budiman Bujang](https://www.linkedin.com/in/budimanbujang/)  
+🎤 **Speaker:** [Budiman Bujang](https://www.linkedin.com/in/budimanbujang/)   
 <br>
+
+## 📰 Newsletter
+
+<br>
+
 
 ## 🧠 Reflection
 Today, I had the chance to attend a sharing session by JCorp. From the sharing session, I knew that JCorp has business operations in several sectors such as agribusiness (JPG), wellness & healthcare (KPJ healthcare), food & restaurants (KFC, Pizza Hut), real estate & infrastructure and foundations & waqf. Besides that, the speaker also shared about the JCorp journey starting from 2020, the cloud-first strategy. JCorp is going to establish a Command Centre to serve as central nerve system for real-time insights and strategic foresight in April 2026. It integrates 8 core digital elements which are AI & Analytics, Real-time Data Integration, Interactive Intelligence Dashboard, Security & Surveillance, Predictive Analytics - Foresights, Communication & Collaboration, Automation System and Business Intelligence Platform.
