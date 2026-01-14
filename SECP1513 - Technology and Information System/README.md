@@ -23,6 +23,8 @@ This course introduces the basic concepts of information systems and technology 
 |Assignment 1|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%201%20%E2%80%94%20UTMDigital%20Open%20Day%20(Video).md)|
 |Assignment 2|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%202%20%E2%80%94%20PPG%20Industry%20Talk%20(Poster).md)|
 |Assignment 3|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%203%20%E2%80%94%20Serunai%20Industry%20Talk%20(Report).md)|
+|Assignment 4|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Assignment%204.md)|
+|Industry Talk|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECP1513%20-%20Technology%20and%20Information%20System/Industry%20Talk.md)|
 |Design Thinking|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Design%20Thinking.md)|
 |PC Assembly|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Lab%201%20%E2%80%94%20PC%20Assembly.md)|
 |Program Pembangunan Pelajar SECP|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/66017a7e7bd41f4acb24ed54395c055bd1e5086e/SECP1513%20-%20Technology%20and%20Information%20System/Program%20Pembangunan%20Pelajar%20SECP%202025.md)|
