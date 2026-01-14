@@ -43,7 +43,7 @@ Moreover, the speaker also mentioned that Power BI is not just a software applic
 
 She also showed us an incomplete system architecture to explain how data flows into Power BI and how to modify the VPN to ensure that the right people view the right information.
 
-All in all, the speech by the speaker, as well as the lecture by Dr. Aryati, highlighted the importance of continuous learning and self-improvement. No matter how difficult or less interesting, we must still invest time and effort to master them. Throughout this talk, I realized that although this course is challenging for me, I still need to make full use of the knowledge provided by UTM and take every opportunity to upskill myself, not only academically but also in communication skills.  
+All in all, the speech by the speaker, as well as the lecture by Dr. Aryati, highlighted the importance of continuous learning and self-improvement. No matter how difficult the courses are or less interesting on certain subjects, we must still invest time and effort to master them. Throughout this talk, I realized that although this course is challenging for me, I still need to make full use of the knowledge provided by UTM and take every opportunity to upskill myself, not only academically but also in communication skills.  
 <br>
 
 
