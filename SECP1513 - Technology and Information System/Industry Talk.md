@@ -20,13 +20,11 @@
 At the beginning of the talk, the speaker introduced the background of PPG. From the previous industry talk by PPG, I learned that PPG is a chemical company that produces and distributes paints and coatings. It also supplies silica products used in tyres and rubber. She explained that Power BI is basically a reporting tool. Next, she shared real-life industry processes using a dessert-making analogy to help us understand how information systems work in practice.
 
 <p align="center">
-  <img width="800" height="410" alt="image"
-       src="https://github.com/user-attachments/assets/07d12367-44bb-4be1-b1db-dd4dd27af0e8" />
+  <img width="800" height="410" alt="image" src="https://github.com/user-attachments/assets/07d12367-44bb-4be1-b1db-dd4dd27af0e8" />
 </p>
 
 <p align="center">
-  <img width="500" height="330" alt="image"
-       src="https://github.com/user-attachments/assets/393da710-6923-473f-b18c-ea65f71f1ac6" />
+  <img width="500" height="330" alt="image" src="https://github.com/user-attachments/assets/393da710-6923-473f-b18c-ea65f71f1ac6" />
 </p>
 
 In the analogy, the dessert ingredients represent data such as videos, audio and images. In PPG, they work with sales and customer data on a daily basis. Just like ingredients do not appear suddenly without their sources, data must come from somewhere. The ingredient suppliers represent data sources such as SQL Server and SAP. After getting the ingredients, they need to be delivered to the restaurant, which represents logistics. The speaker compared logistics to networks such as the Internet, VPN and LAN, which are responsible for transferring data. These networks help to determine the best route for data transmission.
@@ -40,10 +38,8 @@ Moreover, the speaker also mentioned that Power BI is not just a software applic
 <br>
 
 <p align="center">
-  <img width="650" height="420" alt="image" 
-       src="https://github.com/user-attachments/assets/f9c04539-db7f-47d7-8126-8935fb6bc31f" />
+  <img width="650" height="420" alt="image" src="https://github.com/user-attachments/assets/f9c04539-db7f-47d7-8126-8935fb6bc31f" />
 </p>
-
 
 She also showed us an incomplete system architecture to explain how data flows into Power BI and how to modify the VPN to ensure that the right people view the right information.
 
@@ -58,4 +54,4 @@ All in all, the speech by the speaker, as well as the lecture by Dr. Aryati, hig
 <br>
 
 ## 📋 Meeting Recording
-Click [here](https://drive.google.com/file/d/1PqLSfM41I_k5iE9HCoIViDIZTA-ftcPB/view?usp=drive_link) to view 
+Click [here](https://drive.google.com/file/d/1PqLSfM41I_k5iE9HCoIViDIZTA-ftcPB/view?usp=drive_link) to view the meeting recording
