@@ -1,4 +1,4 @@
-# Industry Visit 1 — Johor Corporation (JCORP)
+# Assignment 4 — Industry Visit to Johor Corporation (JCORP)
 📆 **Date:** 7 January 2026  
 🕢 **Time:** 7:30am - 12pm  
 📍 **Location:** Ibrahim International Business District, Level 24, Menara KOMTAR, 80888 Johor  
