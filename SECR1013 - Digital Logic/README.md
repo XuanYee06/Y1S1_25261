@@ -24,9 +24,9 @@ This course introduces the basic principles of digital systems and logic design.
 ## 📖 Coursework
 |Title|Link|
 |---|---|
-|Lab 1|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/84a0e467badec989df1e871039f82b2bac549518/SECR1013%20-%20Digital%20Logic/Lab1.md)|
-|Lab 2|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/84a0e467badec989df1e871039f82b2bac549518/SECR1013%20-%20Digital%20Logic/Lab%202.pdf)|
-|Lab 3|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECR1013%20-%20Digital%20Logic/Lab%203.pdf)|
+|Lab 1|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Lab%201)|
+|Lab 2|[View](https://github.com/XuanYee06/MyUniversityJourney/blob/main/SECR1013%20-%20Digital%20Logic/Lab%202.pdf)|
+|Lab 3|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Lab%203)|
 |Project|[View](https://github.com/XuanYee06/MyUniversityJourney/tree/main/SECR1013%20-%20Digital%20Logic/Project)|
 <br>
 
