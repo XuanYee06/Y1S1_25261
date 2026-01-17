@@ -19,7 +19,7 @@
 ## 🧠 Reflection
 At the beginning of the talk, the background of PPG was introduced by the speaker. It was learned from a previous industry talk that PPG is a chemical company involved in the production and distribution of paints and coatings, as well as the supply of silica products for tyres and rubber. Power BI was described essentially as a reporting tool. Furthermore, real-life industry processes were illustrated through a dessert-making analogy to demonstrate how information systems are operated in practice.
 
-The relationship between the culinary process and data systems is illustrated in Figure 1.0, while the specific technical mappings are detailed in Table 1.0.
+The relationship between the culinary process and data systems is illustrated in **Figure 1.0**, while the specific technical mappings are detailed in **Table 1.0**.
 
 <p align="center">
   <img width="800" height="410" alt="image" src="https://github.com/user-attachments/assets/07d12367-44bb-4be1-b1db-dd4dd27af0e8" />
@@ -57,7 +57,7 @@ It was also mentioned by the speaker that Power BI is not merely a software appl
 > - Power BI Mobile  
 <br>
 
-An incomplete system architecture was demonstrated to explain how data is flowed into Power BI and how VPNs can be modified to ensure that the correct information is viewed by the appropriate individuals. The flow of data and the structural configuration of the network are illustrated in Figure 2.0.
+An incomplete system architecture was demonstrated to explain how data is flowed into Power BI and how VPNs can be modified to ensure that the correct information is viewed by the appropriate individuals. The flow of data and the structural configuration of the network are illustrated in **Figure 2.0**.
 
 <p align="center">
   <img width="650" height="420" alt="image" src="https://github.com/user-attachments/assets/f9c04539-db7f-47d7-8126-8935fb6bc31f" />
