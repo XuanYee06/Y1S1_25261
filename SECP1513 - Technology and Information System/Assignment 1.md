@@ -1,16 +1,14 @@
-# 🏫 Assignment 1 — UTMDigital Open Day
-
-**Group 10:** Technexus  
-**Date:** 28 & 29 October 2025  
+# Assignment 1 — UTMDigital Open Day 
+📅 **Date:** 28 & 29 October 2025  
+👥 **Group 10:** Technexus 
 
 |Members|Roles|
 |------|--------|
 |Xuan Yee | Research, footage & photo recording|
 |Nazirah | Interviewer & photo recording|
 |Hanan | Interviewer & photo recording|
-|Humayra' | Editor & final compile|
-
----
+|Humayra' | Editor & final compile|  
+<br>
 
 ## 📈 Mission & Vision
 **Mission:**  
@@ -19,18 +17,14 @@
 - To build teamwork, communication and skills throughout the learning process.
 - To maintain originality, integrity and responsibility in all tasks given.
 
-
 **Vision:**  
 To empower a digitally driven UTM community through innovation and collaboration that inspires the use of technology in creating a smarter and more sustainable future for all.  
 <br>
-
----
 
 ## 🧾 Group Agreement 
 We agree to be responsible in our cooperation and complete any task given to us on time, respect each other's ideas, and make sure none of the work involves plagiarism.   
 <br>
 
----
 ## 📷 Photo Highlights
 ![IMG_20251028_151212](https://github.com/user-attachments/assets/bb5fdae8-210b-4d39-981f-9de7d7c12578)
 *Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
@@ -44,23 +38,18 @@ We agree to be responsible in our cooperation and complete any task given to us 
 *Group photo of interviewing UTMD staff*
 <br>
 
----
-
 ## 🎥 2-days UTMD Vlog 
 Click [here](https://drive.google.com/file/d/1JHCzoaKuKiQYfML6lSK6hA-D8CPX7jRB/view?usp=sharing) to view our vlog!  
 <br>
 
----
-
 ## 🧠 Reflection
-The UTMDigital Open Day was a valuable experience for me. During the visit, I learned how UTMDigital supports UTM’s digital operations including campus network management, data centre services, cybersecurity measures and software support. Besides that, this event has enabled me to interact with the members of staff in UTMDigital.
+The UTMDigital Open Day was a great opportunity to see how the university's digital systems work. During the visit, the ways UTMDigital manages campus operations were observed, particularly in network management, data center services, cybersecurity, and software support. The event also allowed for some helpful interaction with the UTMDigital staff.
 
-I was responsible for organizing and managing the vlog materials. After filming, I arranged all the photos and videos into an organized Google Drive folder and recorded all the detailed information that related to our assignment. This helped our group keep everything organized during the editing process. In my opinion, this event improved my communication and organization skill, confidence and teamwork within my group members.    
+For the group assignment, the task of organizing and managing the vlog materials was taken on. Once the filming was finished, all the photos and videos were put into an organized Google Drive folder, and the necessary project details were recorded. This was done to make sure the editing process stayed smooth for the whole team. It was felt that being part of this event helped improve communication, organization, and confidence, while also making the teamwork stronger.
 
-All in all, this visit gave me valuable exposure in connecting the concepts learned in class to practical applications, which made the whole learning experience more interesting. Last, thanks to the UTMDigital staff members and our lecturer, Dr. Aryati for the guidance.  
+All in all, the visit was useful because classroom concepts were connected to real-world applications. This made the learning process much more interesting. Finally, thanks are given to the UTMDigital staff and our lecturer, Dr. Aryati, for their help and guidance.
 <br>
 
 > 📁 **View the full folder here:**  [Vlog Materials](https://drive.google.com/drive/folders/1mizJZGXwCg8mlPzyVhFo3I5WFN-D1OfW?usp=drive_link)
 <br>
 
----
