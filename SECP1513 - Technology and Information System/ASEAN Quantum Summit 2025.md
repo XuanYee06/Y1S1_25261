@@ -19,28 +19,32 @@ The exhibition booth visit was considered the most exciting part of the event, a
 <br>
 
 ## 📷 Photos 
-**Figure 1.0** shows the official program poster of the ASEAN Quantum Summit 2025, including the program details and participating organizations. 
+**Figure 1.0** shows the official program poster of the ASEAN Quantum Summit 2025, including the program details and participating organizations.  
+<br>
 ![597112095_1285752230256384_4697432075458059250_n](https://github.com/user-attachments/assets/624ae9b3-3a42-4d77-a85f-12415684e077)  
 <div align="center">
   <em>Figure 1.0: Ofiicial Program Poster</em>
 </div>
 <br>
 
-**Figure 2.0** shows the sharing session of Japan's Quantum Innovation
+**Figure 2.0** shows the sharing session of Japan's Quantum Innovation.  
+<br>
 ![8453b466-aecd-44be-b88d-6a98ef585d50](https://github.com/user-attachments/assets/0951ce85-842c-4bb0-9b9e-1feff4373857)  
 <div align="center">
   <em>Figure 2.0: Presentation on Japan's Quantum Innovation</em>
 </div>
 <br>
 
-**Figure 3.0** shows the formal exchange of a Memorandum of Understanding (MoU) between UTM & Center of Quantum Information and Quantum Biology
+**Figure 3.0** shows the formal exchange of a Memorandum of Understanding (MoU) between UTM & Center of Quantum Information and Quantum Biology.  
+<br>
 ![b57ef142-a347-40a3-b62a-4aa39f2ec0d0](https://github.com/user-attachments/assets/d3c84e8d-7c07-4fac-9773-4a920bbea71a)
 <div align="center">
   <em>Figure 3.0: Memorandum of Understanding (MoU) Exchange</em>
 </div>
 <br>
 
-**Figure 4.0** shows the group photograph of the participants
+**Figure 4.0** shows the group photograph of the participants.  
+<br>
 ![2fa84504-0b55-4513-b381-a2ee8b306d29](https://github.com/user-attachments/assets/dd2087d3-64d1-489e-9f29-9dfbb6f052d9)
 <div align="center">
   <em>Figure 4.0: Group Commemoration</em>
@@ -48,5 +52,5 @@ The exhibition booth visit was considered the most exciting part of the event, a
 <br>
 
 ## 📹 Opening Ceremony of ASEAN Quantum Summit 2025
-The link below shows the official opening ceremony video of the program
+The link below shows the official opening ceremony video of the program  
 https://github.com/user-attachments/assets/60f7abbb-fc81-4425-81c6-04e2fd7c35cb  
