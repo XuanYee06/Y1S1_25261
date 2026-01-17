@@ -10,10 +10,10 @@
   - A one-year internship was completed under the Data Analytics Department
   
 - **2024 | Application Development Analyst**  
-  - Joined Power BI Center of Excellence (CoE)
+  - The Power BI Center of Excellence (CoE) was joined as an Application Development Analyst
   
 - **2025 – Present | Application Development Analyst**  
-  - Senior of Power BI CoE Team & Fabric Administrator
+  - The roles of Senior of the Power BI CoE Team and Fabric Administrator are currently held
 <br>
 
 ## 🧠 Reflection
