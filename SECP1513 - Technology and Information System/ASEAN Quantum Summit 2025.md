@@ -4,8 +4,8 @@
 📍Location: Dewan Sultan Iskandar, UTM  
 <br>
 
-## 🤔 What is ASEAN Quantum Summit 2025？ 
-This encounter marked a difference as it emerged as a fully-fledged academic conference, unlike other events. This marked the first official summit focused on “quantum” to be organized on the Southeast Asian continent. The ten (10) ASEAN nations came together to organize this event, and it was organized jointly by the Universiti Teknologi Malaysia and the International Year of Quantum Science and Technology. The main aim of organizing the summit was to increase public awareness of and interest in “quantum technology.” Generally, people find these niche areas to be quite remote from their day-to-day activities, but these events bring about vital opportunities and open new avenues for the younger generation.
+## 🤔 Introduction and Objectives 
+This encounter marked a difference as it emerged as a fully-fledged academic conference, unlike other events. This marked the first official summit focused on “quantum” to be organized on the Southeast Asian continent. It was organized jointly by the Universiti Teknologi Malaysia and the International Year of Quantum Science and Technology. The main aim of organizing the summit was to increase public awareness of and interest in “quantum technology.” Generally, people find these niche areas to be quite remote from their day-to-day activities, but these events bring about vital opportunities and open new avenues for the younger generation.
 <br>
 
 ## 🧠 Reflection
