@@ -6,9 +6,16 @@
 <br>
 
 ## 📰 Newsletter
-
+Click [here]() to view our newsletter  
 <br>
 
+## 🪪 Company Background
+Johor Corporation (JCorp), was formed in 1968 and has been the main economic development vehicle for the State of Johor. "Membina & Membela," or "To Build and To Nurture," has been the corporation's motto, and it has transformed from a state economic development agency to a technology-driven sustainable business-builder. The organization manages a multi-billion ringgit portfolio and serves as a vital engine for regional wealth creation and social distribution.
+
+The nature of the company is defined by its four core strategic pillars: Agribusiness (Kulim), Wellness & Healthcare (KPJ Healthcare), Food & Restaurant Services (QSR Brands), and Real Estate & Infrastructure (JLand Group). This diversified structure grants JCorp a significant regional and global footprint, managing Malaysia’s largest private healthcare network and over 1,400 food outlets across Southeast Asia.
+
+Under its JCorp 3.0 Reinvention Plan, the organization has embraced a "Digital-First" ecosystem, notably implementing a progressive 3-2-2 work model (3 days office, 2 days WFH, 2 days rest). This hybrid arrangement is supported by 100% cloud-based infrastructure and AI-Powered IT Operations (AIOps). By adopting this model, JCorp reinforces its role as a regional leader in the "Agentic Enterprise" model, where an autonomous workforce utilizes unified data architecture to drive innovation in the global digital economy.
+<br>
 
 ## 🧠 Reflection
 Today, I had the chance to attend a sharing session by JCorp. From the sharing session, I knew that JCorp has business operations in several sectors such as agribusiness (JPG), wellness & healthcare (KPJ healthcare), food & restaurants (KFC, Pizza Hut), real estate & infrastructure and foundations & waqf. Besides that, the speaker also shared about the JCorp journey starting from 2020, the cloud-first strategy. JCorp is going to establish a Command Centre to serve as central nerve system for real-time insights and strategic foresight in April 2026. It integrates 8 core digital elements which are AI & Analytics, Real-time Data Integration, Interactive Intelligence Dashboard, Security & Surveillance, Predictive Analytics - Foresights, Communication & Collaboration, Automation System and Business Intelligence Platform.
