@@ -1,7 +1,7 @@
 # 🤔 Design Thinking Project
-
-**Project Theme:**  
-Student engagement or wellness analytics   
+⛑**Project Theme:** Student Engagement and Wellness Analytics   
+👥**Group 10:** TechNexus  
+<br>
 
 |Materials|Link|
 |---|---|
