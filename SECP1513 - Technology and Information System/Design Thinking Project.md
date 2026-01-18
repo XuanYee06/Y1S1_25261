@@ -15,6 +15,10 @@
 |Presentation Slide|[View](https://www.canva.com/design/DAG-MAszJ-Q/eY5tytsyrANxHY6htvIhVA/edit?utm_content=DAG-MAszJ-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|  
 <br>
 
+## 🧠 Reflection
+
+<br>
+
 ## 🤖 Presentation Day  
 ![6e6ab0a9-45ec-4f52-8960-588fdd113397](https://github.com/user-attachments/assets/28b52bbb-dcf7-4af3-8aa7-18156d7b1b19)
 ![c9f088e8-d9ca-408f-a1ea-e75751641309](https://github.com/user-attachments/assets/85f6ee4d-139d-4aaf-abf8-9407e8b0a9df)
