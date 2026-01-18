@@ -1,4 +1,4 @@
-# 🤔 Design Thinking  
+# 🤔 Design Thinking Project
 
 **Project Theme:**  
 Student engagement or wellness analytics   
