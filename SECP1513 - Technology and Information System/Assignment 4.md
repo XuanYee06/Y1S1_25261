@@ -6,7 +6,7 @@
 <br>
 
 ## 📰 Newsletter
-Click [here]() to view our newsletter  
+Click [here](https://github.com/user-attachments/files/24735075/Group.10.Assignment.4.Newsletter._20260120_182230_0000.pdf) to view our newsletter  
 <br>
 
 ## 🪪 Company Background
