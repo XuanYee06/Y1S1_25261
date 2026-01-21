@@ -5,7 +5,7 @@
 
 |Materials|Link|
 |---|---|
-|Report|[View]()|
+|Report|[View](https://github.com/user-attachments/files/24767293/GROUP.10.TIS.REPORT.pdf)|
 |Video|[View](https://youtu.be/GthMQMXqYpA?si=qv-kQYtly2aeutb_)|
 |Google Form|[View](https://forms.gle/nJYH7NaEfLYuNUkz5)|
 |Collected Data|[View](https://docs.google.com/spreadsheets/d/1UexlNrc_AAN2yYqBEt9ebnGl3qIf7W7O16_oVlIKfOs/edit?usp=sharing)|
