@@ -6,10 +6,10 @@
 **Team Members:**
 |No.|NAME|
 |---|---|
-|𝟭|Ng Xuan Yee|
-|𝟮|Lim Li Jing|
-|𝟯|Lim Li Ning|
-|𝟰|Cheng Zhi Min|  
+|𝟭|[Ng Xuan Yee](https://github.com/XuanYee06)|
+|𝟮|[Lim Li Jing](https://github.com/limlijing)|
+|𝟯|[Lim Li Ning](https://github.com/limlining)|
+|𝟰|[Cheng Zhi Min](https://github.com/zhiminnnnn)|  
 <br>
 
 ## 🔖 Project Materials
