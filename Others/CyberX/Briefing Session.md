@@ -20,9 +20,8 @@
   - SQL Injection  
   - XSS  
   - Directory traversal  
-- Early exposure to secure coding practices  
-
----
+- Early exposure to secure coding practices   
+<br>
 
 ### 🔹 3. Basic Reverse Engineering  
 - Introduction to binary/program analysis  
