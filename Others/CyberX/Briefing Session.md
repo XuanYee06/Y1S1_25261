@@ -3,9 +3,7 @@
 📅 **Date:** 15 November 2025  
 🕘 **Time:** 9am - 12pm  
 📍 **Location:** BK1, N28
-
-
----
+<br>
 
 ## 📖 Key Topics Covered
 
