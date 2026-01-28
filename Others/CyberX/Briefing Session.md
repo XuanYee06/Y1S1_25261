@@ -11,9 +11,8 @@
 - What CTF competitions are  
 - Types of categories  
 - Beginner mindset & strategies  
-- How flags are captured
-
----
+- How flags are captured  
+<br>
 
 ### 🔹 2. Basic Web Exploitation  
 - How web applications function  
