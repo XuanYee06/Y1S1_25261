@@ -27,9 +27,8 @@
 - Introduction to binary/program analysis  
 - Understanding executable behavior  
 - Overview of tools used in reverse engineering  
-- Recognising patterns rather than relying on source code  
-
----
+- Recognising patterns rather than relying on source code   
+<br>
 
 ## 📸 Photo Highlights
 ![7466e046-d51c-4f6e-9145-46a1132fd9fc](https://github.com/user-attachments/assets/3c8e0104-9f49-426e-8ced-0907552fc846)  
