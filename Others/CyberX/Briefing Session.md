@@ -41,7 +41,6 @@
 ![8894c6c2-2eed-4668-b1d6-01c59022493a](https://github.com/user-attachments/assets/4a77fd3c-4b75-44dd-ab17-39636c7d69bc)  
 <br>
 
----
 
 ## 🧠 Reflection
 Today, I attended the CyberX briefing session and we were introduced to the basic concept of cybersecurity and Capture The Flag (CTF) games. Before this session, I have no idea about the terms like CTF challenges, web exploitation and reverse engineering. However, after listening to the explanations and examples, I realized that cybersecurity is not just about programming knowledge, it is also about logical thinking, problem solving and being passion when facing different challenges.  
