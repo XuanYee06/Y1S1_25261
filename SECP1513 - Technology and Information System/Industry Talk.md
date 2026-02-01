@@ -5,7 +5,6 @@
 🎤**Speaker:** [Qaisara Rohzan](https://www.linkedin.com/in/qaisara-rohzan/?originalSubdomain=my)  
 <br>
 
-
 ## 💼 Speaker's Career Journey
 - **2023 | IT Intern**  
   - A one-year internship was completed under the Data Analytics Department
